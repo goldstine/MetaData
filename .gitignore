@@ -1,0 +1,9 @@
+.idea
+
+./metadata-common/target/
+./metadata-dao/target/
+./metadata-domain/target/
+./metadata-export/target/
+./metadata-rpc/target/
+./metadata-service/target/
+./metadata-web/target/
