@@ -1,0 +1,4 @@
+org\example\App.class
+MyBatisPlusApplication.class
+com\goldstine\mapper\UserMapper.class
+com\goldstine\pojo\User.class
